@@ -1,5 +1,5 @@
 {
-  "name": "ajs_7_nicknames",
+  "name": "ajs_7_phones",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maksim-Gavr-04/ajs_7_nicknames.git"
+    "url": "git+https://github.com/Maksim-Gavr-04/ajs_7_phones.git"
   },
   "author": "Maksim-Gavr-04",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maksim-Gavr-04/ajs_7_nicknames/issues"
+    "url": "https://github.com/Maksim-Gavr-04/ajs_7_phones/issues"
   },
-  "homepage": "https://github.com/Maksim-Gavr-04/ajs_7_nicknames#readme",
+  "homepage": "https://github.com/Maksim-Gavr-04/ajs_7_phones#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.7",
     "@babel/core": "^7.25.8",
